@@ -4,7 +4,7 @@ This is my home page! My name is Ethan Bui and I am a student at [Cal State Full
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/your_username.
+My GitHub page is http://github.com/ethanbui888.
 
 ### CPSC 120
 
